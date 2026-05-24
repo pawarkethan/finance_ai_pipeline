@@ -1,0 +1,15 @@
+paddlepaddle==3.2.0
+paddleocr[all]
+pymupdf
+pdf2image
+pillow
+matplotlib
+opencv-python
+pydantic
+langchain
+langchain-community
+langchain-core
+google-generativeai
+fastapi
+uvicorn[standard]
+python-multipart
